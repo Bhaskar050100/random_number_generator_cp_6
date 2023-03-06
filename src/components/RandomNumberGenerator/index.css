@@ -1,0 +1,50 @@
+/* Write your CSS here */
+
+.cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.small-cont {
+  padding: 60px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  background-color: #ffffff;
+  border-radius: 10px;
+  border-width: 0px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+.head {
+  color: #0b69ff;
+  font-size: 40px;
+  font-weight: bold;
+}
+.para {
+  color: #333333;
+  font-size: 20px;
+  font-weight: 500;
+}
+.btn {
+  background-color: #0b69ff;
+  border-radius: 10px;
+  border-width: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 12px;
+  color: #eaebed;
+  cursor: pointer;
+}
+.output {
+  color: #0b69ff;
+  font-size: 40px;
+  font-weight: bold;
+}
